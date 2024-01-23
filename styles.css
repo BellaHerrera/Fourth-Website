@@ -1,0 +1,12 @@
+table,th,td{
+    border: 1px solid white;
+}
+
+body{
+    background-image: 
+    url(https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
